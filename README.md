@@ -1,6 +1,6 @@
 # React Zero Config
 
-[Read More: The Easy, Breezy, Zero Config React App]()
+[Read More: The Easy, Breezy, Zero Config React App](https://github.com/EdwardRutz/TIL/blob/master/react/Easy-Breezy-Zero-Config-React-App.md)
 
 A basic React single page app using 'create-react-app' which needs zero configuration.
 - The "create-react-app" is an official React build setup that needs no configuration.
